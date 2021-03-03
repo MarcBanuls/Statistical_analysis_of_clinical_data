@@ -1,1 +1,2 @@
 # Statistical_analysis_of_clinical_data
+In this Repository I use clinical data to do data analysis using R and some of its most popular packages. I try to explain my thoughts during the analyses and discuss the results obtained. I also add the code used and explain the process to do the different analyses. If you see errors or more efficient ways to do what is already done, please tell me. Also, if you are one of the persons that enters here to learn or improve in biostatistics and have any question, do not hesitate in contacting me.
